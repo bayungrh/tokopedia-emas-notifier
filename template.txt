@@ -1,0 +1,6 @@
+Harga emas Tokopedia hari ini lebih murah dibanding kemarin!
+
+- Harga beli sekarang: $priceIDR2 ($newDate)
+- Harga beli kemarin: $priceIDR1 ($beforeDate)
+
+Cek Sekarang! https://www.tokopedia.com/emas/dashboard
