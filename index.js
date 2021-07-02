@@ -69,5 +69,5 @@ const main = () => {
 
 (function() {
   console.log('Service Started!');
-  setInterval(main, (1000 * 60 * 60) * 24)
+  setInterval(main, (1000 * 60 * 60) * 24);
 })();
